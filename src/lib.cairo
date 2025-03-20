@@ -50,7 +50,7 @@ mod BookStore {
         book_title: felt252,
         author: felt252,
         description: felt252,
-        description: u16,
+        price: u16,
         book_qty: u8,
     }
 
